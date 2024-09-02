@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aventura Épica - RPG</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Aventura Épica</h1>
+        <nav>
+            <ul>
+                <li><a href="#regras">Regras</a></li>
+                <li><a href="#desafios">Desafios</a></li>
+                <li><a href="#creditos">Créditos</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="regras">
+        <h2>Regras</h2>
+        <h3>Criação de Personagem</h3>
+        <p>Detalhes sobre as raças, classes, e habilidades disponíveis...</p>
+
+        <h3>Sistema de Combate</h3>
+        <p>Explicação sobre rolagem de dados para ataques, defesas e danos...</p>
+
+        <h3>Exploração</h3>
+        <p>Regras para movimento no mapa, descoberta de segredos, e interações com NPCs...</p>
+
+        <h3>Magia e Habilidades Especiais</h3>
+        <p>Explicação sobre o uso de magia, incluindo manas e cooldowns...</p>
+    </section>
+
+    <section id="desafios">
+        <h2>Desafios</h2>
+        <h3>Missões Principais</h3>
+        <p>Descrição das missões principais do RPG, com suas recompensas e dificuldades...</p>
+
+        <h3>Missões Secundárias</h3>
+        <p>Pequenas aventuras que os jogadores podem escolher seguir ou ignorar...</p>
+
+        <h3>Monstros e Encontros</h3>
+        <p>Lista de criaturas que os jogadores podem enfrentar...</p>
+
+        <h3>Tesouros e Itens</h3>
+        <p>Lista de itens especiais que podem ser encontrados durante o jogo...</p>
+    </section>
+
+    <section id="creditos">
+        <h2>Créditos</h2>
+        <p>Site criado por Eduardo Nogueira.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Aventura Épica. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
